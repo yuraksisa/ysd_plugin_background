@@ -9,7 +9,5 @@ Gem::Specification.new do |s|
   s.summary = "Background plugin"
   
   s.add_runtime_dependency "ysd_md_configuration"       # The model
-  s.add_runtime_dependency "ysd_plugin_site"            # Framework for creating managements
-
     
 end
