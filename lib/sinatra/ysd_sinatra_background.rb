@@ -1,4 +1,3 @@
-
 module Sinatra
   module YSD
     module Background
